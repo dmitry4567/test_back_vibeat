@@ -12,7 +12,7 @@ export class MusicController {
 
   @Get('rec/rec')
   getInitRecommend() {
-    const host = "172.20.10.2";
+    const host = "158.160.15.51";
 
     const files = [
       {
